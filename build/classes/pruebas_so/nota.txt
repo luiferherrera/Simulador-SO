@@ -1,0 +1,2 @@
+Ingrese el titulo de la nota
+Ingrese la notardcvtrd
